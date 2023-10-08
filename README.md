@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **ReactJs**
 
-- 💬 Ask me about **HTML,CSS,BOOTSTRAP,JAVASCRIPT,PHP**
+- 💬 Ask me about **HTML,CSS,BOOTSTRAP,JAVASCRIPT,PHP,REACTJs**
 
 - 📫 How to reach me **shaheerkhatri123@gmail.com**
 
